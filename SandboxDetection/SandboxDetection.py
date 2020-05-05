@@ -21,7 +21,10 @@ INVM = [
 "prl_cc.exe",
 "prl_tools.exe",
 "xenservice.exe",
-"qemu-ga.exe"
+"qemu-ga.exe",
+"joeboxcontrol.exe",
+"joeboxserver.exe",
+"joeboxserver.exe"
 ]# https://github.com/LordNoteworthy/al-khaser Check this dudes stuff out, I took this vm list from there.
 
 SANDBOX = False
